@@ -37,7 +37,7 @@
   </li>
     <li>
     📊 <strong> Dashboard para Acompanhamento Metas de Produção </strong><br>
-    🔗 <a href="#">Acesse o projeto no GitHub</a>
+    🔗 <a href="https://github.com/mateusferreirasilva07/Projeto-Acompanhamento-Metas-de-Produ-o/tree/main">Acesse o projeto no GitHub</a>
   </li>
 </ul>
 
