@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou o Mateus Ferreira!</h1>
 
 <p>
-  🎯 Profissional  com  experiência  em  análise,  organização  e  gestão  de  informações  em  ambientes institucionais,  com  formação  em  Direito  e  atualmente  cursando  Análise  e  Desenvolvimento de  Sistemas.  Possuo  perfil  analítico,  experiência  com  acompanhamento  de  processos, elaboração  de  relatórios  e  controle  de  informações,  além  de  conhecimentos  em  SQL,  Power BI, Excel e análise de dados. Busco  oportunidades  em  ambientes  corporativos  nas  áreas  de  Dados,  Negócios,  Business Analytics  e  Melhoria  de  Processos. Possuo  perfil  analítico,  facilidade  de  aprendizado  e  boa  capacidade  de comunicação,  com  interesse  em  evoluir  continuamente  e  transformar  dados  e  informações em resultados relevantes para o negócio. 
+  🎯 Profissional  com  experiência  em  análise,  organização  e  gestão  de  informações  em  ambientes institucionais,  com  formação  em  Direito  e Análise  e  Desenvolvimento de  Sistemas.  Possuo  perfil  analítico,  experiência  com  acompanhamento  de  processos, elaboração  de  relatórios  e  controle  de  informações,  além  de  conhecimentos  em  SQL,  Power BI, Excel e análise de dados. Busco  oportunidades  em  ambientes  corporativos  nas  áreas  de  Dados,  Negócios,  Business Analytics  e  Melhoria  de  Processos. Possuo  perfil  analítico,  facilidade  de  aprendizado  e  boa  capacidade  de comunicação,  com  interesse  em  evoluir  continuamente  e  transformar  dados  e  informações em resultados relevantes para o negócio. 
 </p>
 
 <h2>💼 O que eu faço hoje:</h2>
