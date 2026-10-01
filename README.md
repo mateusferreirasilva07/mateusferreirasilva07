@@ -28,11 +28,15 @@
 
 <ul>
   <li>
-    📊 <strong>Dashboard de Indicadores de Negócios</strong><br>
+   🔍 📊 <strong>Projeto Vendas Online vs Outros Canais </strong><br>
     🔗 <a href="#">Acesse o projeto no GitHub</a>
   </li>
   <li>
-    🔍 <strong>Análise de Dados e Processos Corporativos</strong><br>
+    📊 <strong>Dashboard para Acompanhamento Logístico e Financeiro </strong><br>
+    🔗 <a href="#">Acesse o projeto no GitHub</a>
+  </li>
+    <li>
+    📊 <strong> Dashboard para Acompanhamento Metas de Produção </strong><br>
     🔗 <a href="#">Acesse o projeto no GitHub</a>
   </li>
 </ul>
