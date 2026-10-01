@@ -40,10 +40,8 @@
 <h2>🌐 Conecte-se comigo</h2>
 
 <p>
-  <a href="[https://linkedin.com/in/seu-usuario" target="_blank](https://www.linkedin.com/in/mateus-ferreira-data-analytics/?isSelfProfile=true#:~:text=www.linkedin.com/in/mateus%2Dferreira%2Ddata%2Danalytics)">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mateus-ferreira-data-analytics" target="_blank">
+    <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  <a href="mateusferreirasilva07@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail" />
-  </a>
+
 </p>
