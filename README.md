@@ -34,7 +34,7 @@
   </li>
   <li>
     📊 <strong>Dashboard para Acompanhamento Logístico e Financeiro </strong><br>
-    🔗 <a href="#">Acesse o projeto no GitHub</a>
+    🔗 <a href="https://github.com/mateusferreirasilva07/-Projeto-Acompanhamento-Log-stico-e-Finaceiro-">Acesse o projeto no GitHub</a>
   </li>
     <li>
     📊 <strong> Dashboard para Acompanhamento Metas de Produção </strong><br>
