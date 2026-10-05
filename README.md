@@ -30,7 +30,7 @@
 <ul>
   <li>
    🔍 📊 <strong>Projeto Vendas Online vs Outros Canais </strong><br>
-    🔗 <a href="#">Acesse o projeto no GitHub</a>
+    🔗 <a href="https://github.com/mateusferreirasilva07/-Projeto-Vendas-Online-vs.-Outros-Canais/tree/main">Acesse o projeto no GitHub</a>
   </li>
   <li>
     📊 <strong>Dashboard para Acompanhamento Logístico e Financeiro </strong><br>
